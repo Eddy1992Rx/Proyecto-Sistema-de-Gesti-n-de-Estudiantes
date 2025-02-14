@@ -57,6 +57,11 @@ nombre11 = "Yael"
 apellido11 = "Gomez Gomez"
 notas11 = 95.5
 
+matricula12 = "207593732"
+nombre12 = "Eddy Armando"
+apellido12 = "De la Cruz Huezo"
+notas12 = "90.6"
+
 # Le pedimos al usuario que elija una opcion 
 while True:
     print("1. Agregar estudiante")
